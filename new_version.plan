@@ -44,7 +44,7 @@
 
 
 <!-- (Filter 3) --><step mode="NORMAL" className="com.ataccama.dqc.tasks.conditions.Filter" disabled="false" id="Filter 3">
-		<properties condition="src_province =&#39;QC&#39;"/>
+		<properties condition="src_province =&#39;NY&#39;"/>
 		<visual-constraints layout="vertical" bounds="120,240,48,48"/>
 	</step>
 	<connection className="com.ataccama.dqc.model.elements.connections.StandardFlowConnection" disabled="false">
